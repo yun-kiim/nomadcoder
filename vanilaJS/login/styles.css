@@ -1,0 +1,13 @@
+.hidden {
+  display: none;
+}
+
+.remove_storage {
+  width: 100px;
+  height: 32px;
+  background-color: #ffd6d6;
+  border: none;
+  border-radius: 15px;
+  margin-top: 24px;
+  cursor: pointer;
+}
